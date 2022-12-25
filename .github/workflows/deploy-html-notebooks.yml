@@ -34,8 +34,10 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run jupyter-nbconvert 
-        run: jupyter nbconvert notebooks/*.ipynb --to html --output-dir dist
+      - name: Build HTML files
+        run: |
+          jupyter nbconvert notebooks/*.ipynb --to html --output-dir dist
+          markdown_py README.md > dist/index.html
       
       - name: Setup Pages
         uses: actions/configure-pages@v2
