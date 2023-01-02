@@ -23,3 +23,4 @@
 - 第4章 衛星データ解析手法別演習 [解析編]
     - [4-1 バンド演算について](https://sankichi92.github.io/satelliteBook/4-1-band_calc)
     - [4-2 森林分野における衛星データ利用事例](https://sankichi92.github.io/satelliteBook/4-2-forest)
+    - [4-3 プランテーション林に開発された道路を抽出](https://sankichi92.github.io/satelliteBook/4-3-roads)
