@@ -25,3 +25,4 @@
     - [4-2 森林分野における衛星データ利用事例](https://sankichi92.github.io/satelliteBook/4-2-forest)
     - [4-3 プランテーション林に開発された道路を抽出](https://sankichi92.github.io/satelliteBook/4-3-roads)
     - [4-4 農業分野における衛星データ利用事例](https://sankichi92.github.io/satelliteBook/4-4-agri)
+    - [4-5 浜辺の侵食の様子を確認する](https://sankichi92.github.io/satelliteBook/4-5-coast)
