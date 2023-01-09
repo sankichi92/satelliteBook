@@ -27,3 +27,4 @@
     - [4-4 農業分野における衛星データ利用事例](https://sankichi92.github.io/satelliteBook/4-4-agri)
     - [4-5 浜辺の侵食の様子を確認する](https://sankichi92.github.io/satelliteBook/4-5-coast)
 - [第5章 衛星データ解析手法別演習 [教師あり機械学習編]](https://sankichi92.github.io/satelliteBook/5-regression_and_svm)
+- [第6章 衛星データ解析手法別演習 [分類編]](https://sankichi92.github.io/satelliteBook/6-classification)
